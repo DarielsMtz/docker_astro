@@ -1,5 +1,3 @@
-# Proyecto de Ejemplo
-
 # Proyecto de Ejemplo con Astro
 
 Este proyecto es un ejemplo de cómo documentar y estructurar un proyecto de software utilizando Astro. A continuación se describen los componentes principales del proyecto y cómo utilizarlos.
